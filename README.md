@@ -1,2 +1,3 @@
 # BtBI
-Data and Analysis accompanying a blog post on scanberlin.com
+
+Data and analysis accompanying a [blog post](https://scanberlin.com/2016/10/06/your-opinions-on-brain-to-brain-interfaces/).
